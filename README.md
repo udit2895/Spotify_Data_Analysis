@@ -2,6 +2,8 @@
 ## Project Overview
 This project focuses on creating an end-to-end data engineering pipeline for extracting, transforming, and loading (ETL) Spotify data. The pipeline integrates with the Spotify API, utilizes AWS Lambda for data extraction, employs transformation functions, and stores the processed data in Snowflake. The automation of data extraction and loading processes enhances efficiency and enables seamless analytics.
 
+![Spotify ETL AWS AND SNOWFLAKE PROCESS DIAGRAM](Spotify_data_analysis.jpg)
+
 ## Project Components
 **1. Spotify API Integration and Data Extraction**
 * Connects to the Spotify API to extract relevant data.
